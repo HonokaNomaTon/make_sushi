@@ -1,4 +1,4 @@
-package com.example.make_sushi
+package com.example.cachica
 
 import io.flutter.embedding.android.FlutterActivity
 

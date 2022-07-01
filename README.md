@@ -1,4 +1,4 @@
-# make_sushi
+# cachica
 
 A new Flutter project.
 
